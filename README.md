@@ -1,4 +1,4 @@
-**👋 Hi, I'm ABeer Al-Zebda**
+# Hi, I'm ABeer Al-Zebda 🐨
 
 Machine Learning Engineer & Data Scientist based in Gaza 🇵🇸
 
